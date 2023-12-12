@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\chloe\OneDrive\Documents\CMSC 420\Homework3\StarterProject\Graphics\Main.cpp(234,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Graphics.vcxproj -> C:\Users\chloe\OneDrive\Documents\CMSC 420\Homework3\StarterProject\x64\Debug\Graphics.exe
